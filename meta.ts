@@ -113,4 +113,8 @@ export const sources: Source[] = [
       'vercel-composition-patterns',
     ],
   },
+  {
+    source: 'aurorascharff/nextjs-app-architecture-skill',
+    category: 'React',
+  },
 ]
