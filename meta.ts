@@ -20,7 +20,6 @@ export const sources: Source[] = [
       'code-review',
       'codebase-design',
       'research',
-      'tdd',
     ],
   },
   {
@@ -104,5 +103,47 @@ export const sources: Source[] = [
   {
     source: 'aurorascharff/nextjs-app-architecture-skill',
     category: 'React',
+  },
+  {
+    source: 'cursor/plugins/cursor-team-kit',
+    category: 'Workflow',
+    skills: [
+      'deslop',
+      'thermo-nuclear-code-quality-review',
+    ],
+  },
+  {
+    source: 'cursor/plugins/pstack',
+    category: 'Workflow',
+    skills: [
+      'tdd',
+      'create-verification-skill',
+      'maintain-verification-skill',
+      'bro',
+      'how',
+      'why',
+    ],
+  },
+  {
+    source: 'cursor/plugins/pstack',
+    category: 'Writing',
+    skills: [
+      'no-comments',
+      'technical-writing',
+    ],
+  },
+  {
+    source: 'cursor/plugins/pstack',
+    category: 'TypeScript',
+    skills: [
+      'typescript-best-practices',
+    ],
+  },
+  {
+    source: 'hashicorp/agent-skills/plugins/terraform',
+    category: 'Infrastructure',
+    skills: [
+      'terraform-style-guide',
+    ],
   },
 ]
