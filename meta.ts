@@ -106,4 +106,11 @@ export const sources: Source[] = [
       'vercel-react-view-transitions',
     ],
   },
+  {
+    source: 'vercel-labs/agent-skills',
+    category: 'React',
+    skills: [
+      'vercel-composition-patterns',
+    ],
+  },
 ]

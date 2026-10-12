@@ -113,6 +113,12 @@
       "skills": [
         "vercel-react-view-transitions"
       ]
+    },
+    {
+      "source": "vercel-labs/agent-skills",
+      "skills": [
+        "vercel-composition-patterns"
+      ]
     }
   ],
   "devDependencies": {
