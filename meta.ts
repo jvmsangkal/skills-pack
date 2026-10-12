@@ -99,4 +99,11 @@ export const sources: Source[] = [
       'writing-guidelines',
     ],
   },
+  {
+    source: 'vercel-labs/agent-skills',
+    category: 'React',
+    skills: [
+      'vercel-react-view-transitions',
+    ],
+  },
 ]
