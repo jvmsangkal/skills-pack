@@ -100,6 +100,12 @@ pnpx skills update
 | --- | --- | --- |
 | [agent-browser](https://github.com/vercel-labs/agent-browser/blob/HEAD/skills/agent-browser/SKILL.md) | Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking screenshots, extracting data, testing web apps, or automating any browser task. | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) |
 
+### React
+
+| Skill | Description | Source |
+| --- | --- | --- |
+| [vercel-react-best-practices](https://github.com/vercel-labs/agent-skills/blob/HEAD/skills/react-best-practices/SKILL.md) | React and Next.js performance optimization guidelines from Vercel Engineering. | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
+
 <!-- skills:end -->
 
 ## License

@@ -89,7 +89,13 @@
       ]
     },
     "anthropics/skills/skills/frontend-design",
-    "vercel-labs/agent-browser"
+    "vercel-labs/agent-browser",
+    {
+      "source": "vercel-labs/agent-skills",
+      "skills": [
+        "vercel-react-best-practices"
+      ]
+    }
   ],
   "devDependencies": {
     "@antfu/eslint-config": "catalog:cli",
