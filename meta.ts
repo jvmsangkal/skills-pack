@@ -92,4 +92,11 @@ export const sources: Source[] = [
       'web-design-guidelines',
     ],
   },
+  {
+    source: 'vercel-labs/agent-skills',
+    category: 'Writing',
+    skills: [
+      'writing-guidelines',
+    ],
+  },
 ]
