@@ -119,7 +119,8 @@
       "skills": [
         "vercel-composition-patterns"
       ]
-    }
+    },
+    "aurorascharff/nextjs-app-architecture-skill"
   ],
   "devDependencies": {
     "@antfu/eslint-config": "catalog:cli",
