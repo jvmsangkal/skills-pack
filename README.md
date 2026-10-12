@@ -4,7 +4,7 @@
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License][license-src]][license-href]
 
-Anthony's curated agent skills.
+JV's curated agent skills.
 
 A hand-picked set of [agent skills](https://agentskills.io) from across the ecosystem, declared in one npm package so a project gets all of them with a single install. 
 
@@ -104,7 +104,7 @@ pnpx skills update
 
 ## License
 
-[MIT](./LICENSE) License © [Anthony Fu](https://github.com/antfu)
+[MIT](./LICENSE) License © [JV](https://github.com/jvmsangkal)
 
 <!-- Badges -->
 

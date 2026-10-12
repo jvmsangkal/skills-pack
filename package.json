@@ -3,8 +3,8 @@
   "type": "module",
   "version": "0.1.0",
   "packageManager": "pnpm@12.6.0",
-  "description": "Anthony's curated agent skills, one `npm i` away",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "description": "JV's curated agent skills, one `npm i` away",
+  "author": "JV (https://github.com/jvmsangkal)",
   "license": "MIT",
   "homepage": "https://github.com/jvmsangkal/skills-pack#readme",
   "repository": {
