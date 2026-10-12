@@ -107,6 +107,12 @@
       "skills": [
         "writing-guidelines"
       ]
+    },
+    {
+      "source": "vercel-labs/agent-skills",
+      "skills": [
+        "vercel-react-view-transitions"
+      ]
     }
   ],
   "devDependencies": {
