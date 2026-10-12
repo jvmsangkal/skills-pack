@@ -146,4 +146,12 @@ export const sources: Source[] = [
       'terraform-style-guide',
     ],
   },
+  {
+    source: 'humanlayer/skills/plugins/show-me/skills/show-me',
+    category: 'Workflow',
+  },
+  {
+    source: 'humanlayer/skills/plugins/visual-pr/skills/visual-pr',
+    category: 'Workflow',
+  },
 ]

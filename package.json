@@ -146,7 +146,9 @@
       "skills": [
         "terraform-style-guide"
       ]
-    }
+    },
+    "humanlayer/skills/plugins/show-me/skills/show-me",
+    "humanlayer/skills/plugins/visual-pr/skills/visual-pr"
   ],
   "devDependencies": {
     "@antfu/eslint-config": "catalog:cli",
