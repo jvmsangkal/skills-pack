@@ -55,8 +55,7 @@
         "teach",
         "code-review",
         "codebase-design",
-        "research",
-        "tdd"
+        "research"
       ]
     },
     "shadcn/improve",
@@ -110,7 +109,44 @@
         "writing-guidelines"
       ]
     },
-    "aurorascharff/nextjs-app-architecture-skill"
+    "aurorascharff/nextjs-app-architecture-skill",
+    {
+      "source": "cursor/plugins/cursor-team-kit",
+      "skills": [
+        "deslop",
+        "thermo-nuclear-code-quality-review"
+      ]
+    },
+    {
+      "source": "cursor/plugins/pstack",
+      "skills": [
+        "tdd",
+        "create-verification-skill",
+        "maintain-verification-skill",
+        "bro",
+        "how",
+        "why"
+      ]
+    },
+    {
+      "source": "cursor/plugins/pstack",
+      "skills": [
+        "no-comments",
+        "technical-writing"
+      ]
+    },
+    {
+      "source": "cursor/plugins/pstack",
+      "skills": [
+        "typescript-best-practices"
+      ]
+    },
+    {
+      "source": "hashicorp/agent-skills/plugins/terraform",
+      "skills": [
+        "terraform-style-guide"
+      ]
+    }
   ],
   "devDependencies": {
     "@antfu/eslint-config": "catalog:cli",
