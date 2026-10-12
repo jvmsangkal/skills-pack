@@ -93,6 +93,7 @@ pnpx skills update
 | Skill | Description | Source |
 | --- | --- | --- |
 | [frontend-design](https://github.com/anthropics/skills/blob/HEAD/skills/frontend-design/SKILL.md) | Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. | [anthropics/skills](https://github.com/anthropics/skills/tree/HEAD/skills/frontend-design) |
+| [web-design-guidelines](https://github.com/vercel-labs/agent-skills/blob/HEAD/skills/web-design-guidelines/SKILL.md) | Review UI code for Web Interface Guidelines compliance. | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
 
 ### Browser
 
