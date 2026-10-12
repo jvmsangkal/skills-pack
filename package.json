@@ -95,6 +95,12 @@
       "skills": [
         "vercel-react-best-practices"
       ]
+    },
+    {
+      "source": "vercel-labs/agent-skills",
+      "skills": [
+        "web-design-guidelines"
+      ]
     }
   ],
   "devDependencies": {

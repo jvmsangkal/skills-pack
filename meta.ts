@@ -85,4 +85,11 @@ export const sources: Source[] = [
       'vercel-react-best-practices',
     ],
   },
+  {
+    source: 'vercel-labs/agent-skills',
+    category: 'Design',
+    skills: [
+      'web-design-guidelines',
+    ],
+  },
 ]
