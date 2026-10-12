@@ -48,6 +48,12 @@ export const sources: Source[] = [
     skills: [
       'antfu',
       'antfu-create-pr',
+      'nuxt',
+      'pinia',
+      'pnpm',
+      'vite',
+      'vitest',
+      'vue',
     ],
   },
   {
@@ -153,5 +159,34 @@ export const sources: Source[] = [
   {
     source: 'humanlayer/skills/plugins/visual-pr/skills/visual-pr',
     category: 'Workflow',
+  },
+  {
+    source: 'tt-a1i/archify',
+    category: 'Workflow',
+  },
+  {
+    source: 'wheresryan22/anatomy',
+    category: 'Design',
+  },
+  {
+    source: 'emilkowalski/skills',
+    category: 'Design',
+    skills: [
+      'emil-design-eng',
+      'animate',
+      'review-animations',
+      'improve-animations',
+      'find-animation-opportunities',
+      'animation-performance',
+      'pick-ui-library',
+    ],
+  },
+  {
+    source: 'GoogleChrome/modern-web-guidance',
+    category: 'Browser',
+  },
+  {
+    source: 'slidevjs/slidev/skills/slidev',
+    category: 'Writing',
   },
 ]

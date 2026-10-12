@@ -67,7 +67,13 @@
       "source": "antfu/skills",
       "skills": [
         "antfu",
-        "antfu-create-pr"
+        "antfu-create-pr",
+        "nuxt",
+        "pinia",
+        "pnpm",
+        "vite",
+        "vitest",
+        "vue"
       ]
     },
     {
@@ -148,7 +154,23 @@
       ]
     },
     "humanlayer/skills/plugins/show-me/skills/show-me",
-    "humanlayer/skills/plugins/visual-pr/skills/visual-pr"
+    "humanlayer/skills/plugins/visual-pr/skills/visual-pr",
+    "tt-a1i/archify",
+    "wheresryan22/anatomy",
+    {
+      "source": "emilkowalski/skills",
+      "skills": [
+        "emil-design-eng",
+        "animate",
+        "review-animations",
+        "improve-animations",
+        "find-animation-opportunities",
+        "animation-performance",
+        "pick-ui-library"
+      ]
+    },
+    "GoogleChrome/modern-web-guidance",
+    "slidevjs/slidev/skills/slidev"
   ],
   "devDependencies": {
     "@antfu/eslint-config": "catalog:cli",

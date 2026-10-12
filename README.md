@@ -66,6 +66,12 @@ pnpx skills update
 | [dry-refactoring](https://github.com/kucherenko/jscpd/blob/HEAD/skills/dry-refactoring/SKILL.md) | Guided workflow to eliminate copy-paste duplication detected by jscpd. | [kucherenko/jscpd](https://github.com/kucherenko/jscpd/tree/HEAD/skills/dry-refactoring) |
 | [antfu](https://github.com/antfu/skills/blob/HEAD/skills/antfu/SKILL.md) | Anthony Fu's opinionated tooling and conventions for JavaScript/TypeScript projects. | [antfu/skills](https://github.com/antfu/skills) |
 | [antfu-create-pr](https://github.com/antfu/skills/blob/HEAD/skills/antfu-create-pr/SKILL.md) | Create a reviewable GitHub pull request from the current branch with a Conventional Commits title, a concise evidence-based body, and before/after screenshots for UI changes. | [antfu/skills](https://github.com/antfu/skills) |
+| [nuxt](https://github.com/antfu/skills/blob/HEAD/skills/nuxt/SKILL.md) | Nuxt full-stack Vue framework with SSR, auto-imports, and file-based routing. | [antfu/skills](https://github.com/antfu/skills) |
+| [pinia](https://github.com/antfu/skills/blob/HEAD/skills/pinia/SKILL.md) | Pinia official Vue state management library, type-safe and extensible. | [antfu/skills](https://github.com/antfu/skills) |
+| [pnpm](https://github.com/antfu/skills/blob/HEAD/skills/pnpm/SKILL.md) | Node.js package manager with strict dependency resolution. | [antfu/skills](https://github.com/antfu/skills) |
+| [vite](https://github.com/antfu/skills/blob/HEAD/skills/vite/SKILL.md) | Vite build tool configuration, plugin API, SSR, and Vite 8 Rolldown migration. | [antfu/skills](https://github.com/antfu/skills) |
+| [vitest](https://github.com/antfu/skills/blob/HEAD/skills/vitest/SKILL.md) | Vitest fast unit testing framework powered by Vite with Jest-compatible API. | [antfu/skills](https://github.com/antfu/skills) |
+| [vue](https://github.com/antfu/skills/blob/HEAD/skills/vue/SKILL.md) | Vue 3 Composition API, script setup macros, reactivity system, and built-in components. | [antfu/skills](https://github.com/antfu/skills) |
 | [deslop](https://github.com/cursor/plugins/blob/HEAD/cursor-team-kit/skills/deslop/SKILL.md) | Remove AI-generated code slop and clean up code style | [cursor/plugins](https://github.com/cursor/plugins/tree/HEAD/cursor-team-kit) |
 | [thermo-nuclear-code-quality-review](https://github.com/cursor/plugins/blob/HEAD/cursor-team-kit/skills/thermo-nuclear-code-quality-review/SKILL.md) | Run an extremely strict maintainability review for abstraction quality, giant files, and spaghetti-condition growth. | [cursor/plugins](https://github.com/cursor/plugins/tree/HEAD/cursor-team-kit) |
 | [tdd](https://github.com/cursor/plugins/blob/HEAD/pstack/skills/tdd/SKILL.md) | Use only when the user explicitly asks for TDD, a failing test, or a regression test, OR when the bug has an obvious cheap local test target. | [cursor/plugins](https://github.com/cursor/plugins/tree/HEAD/pstack) |
@@ -76,6 +82,7 @@ pnpx skills update
 | [why](https://github.com/cursor/plugins/blob/HEAD/pstack/skills/why/SKILL.md) | Use for 'why does X work this way', 'why we picked Y', design rationale, regressions, postmortems, or data-backed thresholds. | [cursor/plugins](https://github.com/cursor/plugins/tree/HEAD/pstack) |
 | [show-me](https://github.com/humanlayer/skills/blob/HEAD/plugins/show-me/skills/show-me/SKILL.md) | Help the user understand the current topic visually with concise diagrams, code-shape sketches, and focused HTML artifacts. | [humanlayer/skills](https://github.com/humanlayer/skills/tree/HEAD/plugins/show-me/skills/show-me) |
 | [visual-pr](https://github.com/humanlayer/skills/blob/HEAD/plugins/visual-pr/skills/visual-pr/SKILL.md) | Only use when the user explicitly invokes this skill by name. | [humanlayer/skills](https://github.com/humanlayer/skills/tree/HEAD/plugins/visual-pr/skills/visual-pr) |
+| [archify](https://github.com/tt-a1i/archify/blob/HEAD/archify/SKILL.md) | Create polished, validated architecture, workflow, sequence, data-flow, and lifecycle/state diagrams as explorable standalone HTML with inline SVG, dark/light themes, optional trace motion, and PNG/JPEG/WebP/SVG/WebM export. | [tt-a1i/archify](https://github.com/tt-a1i/archify) |
 
 ### Writing
 
@@ -87,6 +94,7 @@ pnpx skills update
 | [writing-guidelines](https://github.com/vercel-labs/agent-skills/blob/HEAD/skills/writing-guidelines/SKILL.md) | Review docs/prose for Writing Guidelines compliance. | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
 | [no-comments](https://github.com/cursor/plugins/blob/HEAD/pstack/skills/no-comments/SKILL.md) | Spawn Comment Sicko, fix accepted findings, and offer encodings for claimed constraints. | [cursor/plugins](https://github.com/cursor/plugins/tree/HEAD/pstack) |
 | [technical-writing](https://github.com/cursor/plugins/blob/HEAD/pstack/skills/technical-writing/SKILL.md) | Layered technical-writing standard: Diátaxis structure, Google developer style sentences, STE instruction rules, Global English syntax. | [cursor/plugins](https://github.com/cursor/plugins/tree/HEAD/pstack) |
+| [slidev](https://github.com/slidevjs/slidev/blob/HEAD/skills/slidev/SKILL.md) | Create and present web-based slidedecks for developers using Slidev with Markdown, Vue components, code highlighting, animations, and interactive features. | [slidevjs/slidev](https://github.com/slidevjs/slidev/tree/HEAD/skills/slidev) |
 
 ### Vue & Nuxt
 
@@ -106,12 +114,22 @@ pnpx skills update
 | --- | --- | --- |
 | [frontend-design](https://github.com/anthropics/skills/blob/HEAD/skills/frontend-design/SKILL.md) | Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. | [anthropics/skills](https://github.com/anthropics/skills/tree/HEAD/skills/frontend-design) |
 | [web-design-guidelines](https://github.com/vercel-labs/agent-skills/blob/HEAD/skills/web-design-guidelines/SKILL.md) | Review UI code for Web Interface Guidelines compliance. | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
+| [anatomy](https://github.com/wheresryan22/anatomy/blob/HEAD/SKILL.md) | Build crafted, highly detailed, interactive isometric SVG figures that explain a technical idea as a real physical object (a test rig, a dial gauge, a cabinet of drawers, a plotter, a lock), with many small precise solid parts, four-tone shading, correct painter's order, a framed card with title, hint and live readout, and calm eased motion. | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) |
+| [emil-design-eng](https://github.com/emilkowalski/skills/blob/HEAD/skills/emil-design-eng/SKILL.md) | This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great. | [emilkowalski/skills](https://github.com/emilkowalski/skills) |
+| [animate](https://github.com/emilkowalski/skills/blob/HEAD/skills/animate/SKILL.md) | Build an animation from scratch, making the decisions in the order that determines whether it feels right - should it animate at all, what purpose, which tool, which properties, which curve and duration, how it interrupts, how it exits. | [emilkowalski/skills](https://github.com/emilkowalski/skills) |
+| [review-animations](https://github.com/emilkowalski/skills/blob/HEAD/skills/review-animations/SKILL.md) | Reviews animation and motion code against a high craft bar derived from Emil Kowalski's design engineering philosophy. | [emilkowalski/skills](https://github.com/emilkowalski/skills) |
+| [improve-animations](https://github.com/emilkowalski/skills/blob/HEAD/skills/improve-animations/SKILL.md) | Survey a codebase's animation and motion code as a senior motion advisor, then produce a prioritized audit and self-contained implementation plans for other agents (or cheaper models) to execute. | [emilkowalski/skills](https://github.com/emilkowalski/skills) |
+| [find-animation-opportunities](https://github.com/emilkowalski/skills/blob/HEAD/skills/find-animation-opportunities/SKILL.md) | Search a codebase or UI for places that don't animate but should, and reject everything that shouldn't. | [emilkowalski/skills](https://github.com/emilkowalski/skills) |
+| [animation-performance](https://github.com/emilkowalski/skills/blob/HEAD/skills/animation-performance/SKILL.md) | Keep web animations inside the frame budget - animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. | [emilkowalski/skills](https://github.com/emilkowalski/skills) |
+| [pick-ui-library](https://github.com/emilkowalski/skills/blob/HEAD/skills/pick-ui-library/SKILL.md) | Pick the right library for a given frontend task from a curated, opinionated list - numbers, OTP inputs, charts, command menus, virtualization, drag and drop, toasts, state, styling, and more. | [emilkowalski/skills](https://github.com/emilkowalski/skills) |
 
 ### Browser
 
 | Skill | Description | Source |
 | --- | --- | --- |
 | [agent-browser](https://github.com/vercel-labs/agent-browser/blob/HEAD/skills/agent-browser/SKILL.md) | Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking screenshots, extracting data, testing web apps, or automating any browser task. | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) |
+| [chrome-extensions](https://github.com/GoogleChrome/modern-web-guidance/blob/HEAD/skills/chrome-extensions/SKILL.md) | Build and publish Chrome Extensions using Manifest V3 best practices. | [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) |
+| [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance/blob/HEAD/skills/modern-web-guidance/SKILL.md) | Search tool for modern web development best practices. | [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) |
 
 ### React
 
