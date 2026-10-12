@@ -83,6 +83,8 @@ export const sources: Source[] = [
     category: 'React',
     skills: [
       'vercel-react-best-practices',
+      'vercel-react-view-transitions',
+      'vercel-composition-patterns',
     ],
   },
   {
@@ -97,20 +99,6 @@ export const sources: Source[] = [
     category: 'Writing',
     skills: [
       'writing-guidelines',
-    ],
-  },
-  {
-    source: 'vercel-labs/agent-skills',
-    category: 'React',
-    skills: [
-      'vercel-react-view-transitions',
-    ],
-  },
-  {
-    source: 'vercel-labs/agent-skills',
-    category: 'React',
-    skills: [
-      'vercel-composition-patterns',
     ],
   },
   {
