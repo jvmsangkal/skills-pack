@@ -1,10 +1,10 @@
-# @antfu/skills
+# @jvmsangkal/skills
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License][license-src]][license-href]
 
-Anthony's curated agent skills.
+JV's curated agent skills.
 
 A hand-picked set of [agent skills](https://agentskills.io) from across the ecosystem, declared in one npm package so a project gets all of them with a single install. 
 
@@ -15,7 +15,7 @@ Powered by [skills-npm](https://github.com/antfu/skills-npm).
 Install [skills-npm](https://github.com/antfu/skills-npm) and this pack as dev dependencies, then let skills-npm wire itself into your `prepare` script:
 
 ```bash
-pnpm i -D skills-npm @antfu/skills
+pnpm i -D skills-npm @jvmsangkal/skills
 pnpx skills-npm setup
 ```
 
@@ -28,7 +28,7 @@ pnpx skills-npm setup
   },
   "devDependencies": {
     "skills-npm": "^4.0.0",
-    "@antfu/skills": "^1.0.0"
+    "@jvmsangkal/skills": "^1.0.0"
   }
 }
 ```
@@ -37,7 +37,7 @@ What you get:
 
 - Every skill listed below is installed into `.agents/skills/<name>` and linked into the skill directories of the agents detected on your machine (Claude Code, Cursor, OpenCode, Codex, ...). Pass `--agents claude-code,cursor` to choose explicitly.
 - `skills-npm-lock.json` and `skills-lock.json` record what came from where. Commit them.
-- Removing `@antfu/skills` from your dependencies removes the skills on the next sync.
+- Removing `@jvmsangkal/skills` from your dependencies removes the skills on the next sync.
 
 The pack tracks each upstream's default branch. To pull in the latest upstream changes without waiting for a new pack release:
 
@@ -102,25 +102,17 @@ pnpx skills update
 
 <!-- skills:end -->
 
-## Sponsors
-
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg">
-    <img src="https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg" alt="Sponsors"/>
-  </a>
-</p>
-
 ## License
 
-[MIT](./LICENSE) License © [Anthony Fu](https://github.com/antfu)
+[MIT](./LICENSE) License © [JV](https://github.com/jvmsangkal)
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/@antfu/skills?style=flat&colorA=080f12&colorB=1fa669
-[npm-version-href]: https://npmx.dev/package/@antfu/skills
-[npm-downloads-src]: https://img.shields.io/npm/dm/@antfu/skills?style=flat&colorA=080f12&colorB=1fa669
-[npm-downloads-href]: https://npmx.dev/package/@antfu/skills
-[license-src]: https://img.shields.io/github/license/antfu/skills-pack.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/antfu/skills-pack/blob/main/LICENSE
+[npm-version-src]: https://img.shields.io/npm/v/@jvmsangkal/skills?style=flat&colorA=080f12&colorB=1fa669
+[npm-version-href]: https://npmx.dev/package/@jvmsangkal/skills
+[npm-downloads-src]: https://img.shields.io/npm/dm/@jvmsangkal/skills?style=flat&colorA=080f12&colorB=1fa669
+[npm-downloads-href]: https://npmx.dev/package/@jvmsangkal/skills
+[license-src]: https://img.shields.io/github/license/jvmsangkal/skills-pack.svg?style=flat&colorA=080f12&colorB=1fa669
+[license-href]: https://github.com/jvmsangkal/skills-pack/blob/main/LICENSE
 
 Based on [antfu/skills-pack](https://github.com/antfu/skills-pack) (MIT).

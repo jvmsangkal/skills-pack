@@ -1,18 +1,17 @@
 {
-  "name": "@antfu/skills",
+  "name": "@jvmsangkal/skills",
   "type": "module",
   "version": "0.1.0",
   "packageManager": "pnpm@12.6.0",
-  "description": "Anthony's curated agent skills, one `npm i` away",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "description": "JV's curated agent skills, one `npm i` away",
+  "author": "JV (https://github.com/jvmsangkal)",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/skills-pack#readme",
+  "homepage": "https://github.com/jvmsangkal/skills-pack#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/skills-pack.git"
+    "url": "git+https://github.com/jvmsangkal/skills-pack.git"
   },
-  "bugs": "https://github.com/antfu/skills-pack/issues",
+  "bugs": "https://github.com/jvmsangkal/skills-pack/issues",
   "keywords": [
     "agent",
     "skills",
