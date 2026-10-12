@@ -74,6 +74,8 @@ pnpx skills update
 | [bro](https://github.com/cursor/plugins/blob/HEAD/pstack/skills/bro/SKILL.md) | Restate the last message in plain human language, with no jargon. | [cursor/plugins](https://github.com/cursor/plugins/tree/HEAD/pstack) |
 | [how](https://github.com/cursor/plugins/blob/HEAD/pstack/skills/how/SKILL.md) | Use for "how does X work", code walkthroughs before changing something, and placement / ownership / layering questions ("where should this live", "which package owns this", "is this the right layer"). | [cursor/plugins](https://github.com/cursor/plugins/tree/HEAD/pstack) |
 | [why](https://github.com/cursor/plugins/blob/HEAD/pstack/skills/why/SKILL.md) | Use for 'why does X work this way', 'why we picked Y', design rationale, regressions, postmortems, or data-backed thresholds. | [cursor/plugins](https://github.com/cursor/plugins/tree/HEAD/pstack) |
+| [show-me](https://github.com/humanlayer/skills/blob/HEAD/plugins/show-me/skills/show-me/SKILL.md) | Help the user understand the current topic visually with concise diagrams, code-shape sketches, and focused HTML artifacts. | [humanlayer/skills](https://github.com/humanlayer/skills/tree/HEAD/plugins/show-me/skills/show-me) |
+| [visual-pr](https://github.com/humanlayer/skills/blob/HEAD/plugins/visual-pr/skills/visual-pr/SKILL.md) | Only use when the user explicitly invokes this skill by name. | [humanlayer/skills](https://github.com/humanlayer/skills/tree/HEAD/plugins/visual-pr/skills/visual-pr) |
 
 ### Writing
 
