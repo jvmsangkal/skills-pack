@@ -2,7 +2,7 @@
   "name": "@jvmsangkal/skills",
   "type": "module",
   "version": "0.1.0",
-  "packageManager": "pnpm@12.6.0",
+  "packageManager": "pnpm@11.28.6",
   "description": "JV's curated agent skills, one `npm i` away",
   "author": "JV (https://github.com/jvmsangkal)",
   "license": "MIT",
