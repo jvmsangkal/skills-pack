@@ -115,6 +115,26 @@ export const sources: Source[] = [
     category: 'React',
   },
   {
+    source: 'vercel/next.js/skills/next-partial-prefetching-adoption',
+    category: 'React',
+  },
+  {
+    source: 'vercel/next.js/skills/next-cache-components-adoption',
+    category: 'React',
+  },
+  {
+    source: 'vercel/next.js/skills/next-cache-components-optimizer',
+    category: 'React',
+  },
+  {
+    source: 'vercel/next.js/skills/next-bundle-optimizer',
+    category: 'React',
+  },
+  {
+    source: 'vercel/next.js/skills/next-dev-loop',
+    category: 'React',
+  },
+  {
     source: 'cursor/plugins/cursor-team-kit',
     category: 'Workflow',
     skills: [
