@@ -116,6 +116,7 @@
       ]
     },
     "aurorascharff/nextjs-app-architecture-skill",
+    "vercel/next.js/skills/next-partial-prefetching-optimizer",
     {
       "source": "cursor/plugins/cursor-team-kit",
       "skills": [

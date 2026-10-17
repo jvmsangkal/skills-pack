@@ -139,6 +139,7 @@ pnpx skills update
 | [vercel-react-view-transitions](https://github.com/vercel-labs/agent-skills/blob/HEAD/skills/react-view-transitions/SKILL.md) | Guide for implementing smooth, native-feeling animations using React's View Transition API (`<ViewTransition>` component, `addTransitionType`, and CSS view transition pseudo-elements). | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
 | [vercel-composition-patterns](https://github.com/vercel-labs/agent-skills/blob/HEAD/skills/composition-patterns/SKILL.md) | React composition patterns that scale. Use when refactoring components with boolean prop proliferation, building flexible component libraries, or designing reusable APIs. | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
 | [nextjs-app-architecture](https://github.com/aurorascharff/nextjs-app-architecture-skill/blob/HEAD/SKILL.md) | Build or audit Next.js 16 App Router apps using a next-beats-style React Server Components architecture. | [aurorascharff/nextjs-app-architecture-skill](https://github.com/aurorascharff/nextjs-app-architecture-skill) |
+| [next-partial-prefetching-optimizer](https://github.com/vercel/next.js/blob/HEAD/skills/next-partial-prefetching-optimizer/SKILL.md) | Optimize what selected Next.js client navigations include before the click under Partial Prefetching. | [vercel/next.js](https://github.com/vercel/next.js/tree/HEAD/skills/next-partial-prefetching-optimizer) |
 
 ### TypeScript
 
